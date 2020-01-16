@@ -1,36 +1,18 @@
 PEPS Library License v1.0
-Copyright (c) 15 July 2016
+Copyright (c) 16 January 2020
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the „Software“)
-to display, distribute, and use, i.e. execute, the Software, and to prepare
-derivative works of the Software, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software") to display, distribute, and use, i.e. execute, the Software, and to prepare derivative works of the Software, subject to the following conditions:
 
-1. In any publication where published data was obtained using the Software, the
-Software must be acknowledged. This acknowledgement must include the name of the
-Software „PEPS Library“, the exact web address where the Software can be downloaded
-on GitHub, a citation of the article
+1. In any publication where published data was obtained using the Software, the Software must be acknowledged. This acknowledgement must include the name of the Software "PEPS Library", the exact web address where the Software can be downloaded, a citation of the article
 "M. Lubasch, J. I. Cirac, and M.-C. Ba\~{n}uls, New J. Phys. 16, 033014 (2014)",
 and a citation of the article
 "M. Lubasch, J. I. Cirac, and M.-C. Ba\~{n}uls, Phys. Rev. B 90, 064425 (2014)".
 
-2. Any prepared derivative work that uses a part of the Software must acknowledge
-the Software in the work as well as in any publication where published data was
-obtained using the derivative work. This acknowledgement must include the name of
-the Software „PEPS Library“, the exact web address where the Software can be
-downloaded on GitHub, a citation of the article
+2. Any prepared derivative work that uses a part of the Software must acknowledge the Software in the work as well as in any publication where published data was obtained using the derivative work. This acknowledgement must include the name of the Software "PEPS Library", the exact web address where the Software can be downloaded, a citation of the article
 "M. Lubasch, J. I. Cirac, and M.-C. Ba\~{n}uls, New J. Phys. 16, 033014 (2014)",
 and a citation of the article
 "M. Lubasch, J. I. Cirac, and M.-C. Ba\~{n}uls, Phys. Rev. B 90, 064425 (2014)".
 
-3. The above copyright, permission, restriction notices, and the following
-disclaimer, i.e. this entire document, must be included in all copies or portions
-of the Software and in all derivative works of the Software.
+3. The above copyright, permission, restriction notices, and the following disclaimer, i.e. this entire document, must be included in all copies or portions of the Software and in all derivative works of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
