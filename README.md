@@ -11,6 +11,6 @@ This code produced the results published in:
 - [M. Lubasch, J. I. Cirac, and M.-C. Bañuls, New J. Phys. 16, 033014 (2014)](https://iopscience.iop.org/article/10.1088/1367-2630/16/3/033014)  
 - [M. Lubasch, J. I. Cirac, and M.-C. Bañuls, Phys. Rev. B 90, 064425 (2014)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.064425)
 
-The PEPS Library is distributed under the PEPS Library License v1.0 (see accompanying file LICENSE.txt).
+The PEPS Library is distributed under the PEPS Library License v1.0: please see accompanying file [LICENSE.txt](https://github.com/mlubasch/PEPSLibrary/blob/master/LICENSE.txt).
 
 Please contact [michael.lubasch@gmail.com](mailto:michael.lubasch@gmail.com) in case of any questions.
